@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Dai (pronounced "Day")
+- 👀 I’m interested in frontend web development, web design, 3D modeling, and digital animation
+- 🌱 I’m currently learning JavaScript, C#, and Unreal Engine
+- 💞️ I’m looking to collaborate on web development, web design, and game design
+- 📫 How to reach me: email me at dairbledsoe@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I love sci-fi and hope develop a sci-fi video game and/or animated series.
